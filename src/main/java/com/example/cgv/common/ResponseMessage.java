@@ -9,6 +9,7 @@ public interface ResponseMessage {
     String NOT_EXISTED_EMAIL = "This email does not exist.";
     String DUPLICATE_EMAIL = "duplicate email";
     String DUPLICATE_ID = "duplicate id";
+    String DUPLICATE_NICKNAME = "duplicate nickname";
 
     // HTTP Status 401
     String VALIDATION_FAILED = "validation failed";

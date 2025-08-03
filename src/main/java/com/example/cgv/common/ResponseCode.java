@@ -9,6 +9,7 @@ public interface ResponseCode {
     String NOT_EXISTED_EMAIL = "NEE";
     String DUPLICATE_EMAIL = "DE";
     String DUPLICATE_ID = "DI";
+    String DUPLICATE_NICKNAME = "DN";
 
     // HTTP Status 401
     String VALIDATION_FAILED = "VF";
